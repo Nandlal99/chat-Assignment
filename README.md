@@ -8,15 +8,15 @@ Running Locally
 
 Make sure you have Node.js and npm install.
 
-  1. Clone or Download the repository
+  1. Clone or Download the repository :
     git clone https://github.com/Nandlal99/chat-Assignment.git
 
-  2. First go to backend folder
+  2. First go to backend folder :
      cd backend
      npm install
      npm run dev
      
-  3. Last go to frontend folder
+  3. Last go to frontend folder :
      cd frontend
      npm install
      npm run dev
